@@ -1,0 +1,7 @@
+{
+  "versionCode": 8,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/JAYCou/yibu-qimen-releases/releases/download/v1.4.0/yibu-qimen-1.4.0-debug.apk",
+  "sha256": "4fcc9ac498750357a630f65571fd41d5243399d5200b44d1659c4510fd18cb28",
+  "notes": "1.4.0：强制登录、省/市/区县天气选择、隐私与权限、关于、注销账户、自动更新。"
+}
